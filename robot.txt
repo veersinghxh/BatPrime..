@@ -12,4 +12,4 @@ Allow: /*.webp$
 Allow: /*.html$
 
 # ✅ Sitemap (if available)
-Sitemap:https://github.com/veersinghxh/BatPrime../blob/main/sitemap%20(2).xml
+Sitemap:https://github.com/veersinghxh/BatPrime../blob/main/sitemap.xml
